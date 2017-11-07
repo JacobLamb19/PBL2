@@ -1,0 +1,131 @@
+.Dont {
+    font-size:500%;
+    font-weight:bold;
+    font-style:italic;
+    display:block;
+    z-index:1;
+}
+.ohgodwhy{
+    
+    color:black;
+    text-decoration:none;
+}
+
+#Deal {
+    background-color: rgb(255, 255, 255);
+    margin: 10px auto;
+    width:55%;
+    height: 30%;
+    border-radius: 90%;
+    text-align: center;
+    z-index:2;
+}
+
+
+.Placeholder {
+    width:45%;
+    height:200px;
+    background-color: rgb(218, 216, 219);
+    margin:100px auto;
+    border: 5px dashed rgb(0,0,0);
+}
+
+#Place1 {
+    margin-left:20px;
+}
+
+#Place2 {
+    margin-left:20px;
+}
+
+.Para2 {
+    width:70%;
+    height:250px;
+    background-color: rgb(218, 216, 219);
+    margin:50px auto;
+    border:5px dashed rgb(0,0,0);
+}
+
+#Para2 {
+    margin-left:20px;
+}
+
+body {
+    background:url('/Images/Cuphead Story Background.jpg') no-repeat center top;
+    background-attachment:fixed;
+    background-size: cover;
+    Background-color:rgb(252,213,28);
+}
+
+ ul {
+     list-style: none;
+     padding: 0px;
+     margin: 0px;
+     width: 390px;
+     margin-left: auto;
+     margin-right: auto;
+     
+ }
+ 
+  ul li {
+      display: block;
+      position: relative;
+      float: left;
+      border:1px solid #000;
+      
+  }
+  
+  li ul {
+      display: none;
+      
+  }
+  
+  ul li a {
+      display: block;
+      background: #000;
+      padding: 5px 10px 5px 10px;
+      text-decoration: none;
+      white-space: nowrap;
+      color: #fff;
+      
+  }
+  
+  ul li a:hover {
+      background: #f00;
+      
+  }
+  
+  li:hover ul {
+      display: block;
+      position: absolute;
+      width: 165px;
+      
+  }
+  
+  li:hover li {
+      float: none;
+      
+  }
+  
+  li:hover a {
+      background: #f00;
+      
+  }
+  
+  li:hover li a:hover {
+      background: #000;
+      
+  }
+  
+  #drop-nav li ul li {
+      border-top: 0px;
+      
+  }
+  
+  #WhatsCuphead {
+      text-align:center;
+  }
+  
+  #Develope {
+      text-align:center;
+  }

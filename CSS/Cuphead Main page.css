@@ -51,7 +51,7 @@
 }
 
 body {
-    background:url('/Images/Website Background.png') no-repeat center top;
+    background:url('PBL2/Images/Website Background.png') no-repeat center top;
     background-attachment:fixed;
     background-size: cover;
     Background-color:rgb(252,213,28);

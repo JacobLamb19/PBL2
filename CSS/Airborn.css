@@ -51,7 +51,7 @@
 }
 
 body {
-    background:url('/Images/Background Image Airborn Battle.jpg') no-repeat center top;
+    background:url('../Backgrounds/Airborn Battle.jpg') no-repeat center top;
     background-attachment:fixed;
     background-size: cover;
     Background-color:rgb(252,213,28);

@@ -51,7 +51,7 @@
 }
 
 body {
-    background:url('/Images/Cuphead Story Background.jpg') no-repeat center top;
+    background:url('../Backgrounds/Story.jpg') no-repeat center top;
     background-attachment:fixed;
     background-size: cover;
     Background-color:rgb(252,213,28);

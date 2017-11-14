@@ -51,7 +51,7 @@
 }
 
 body {
-    background:url('/Images/Cuphead and Mugman Background.jpg') no-repeat center top;
+    background:url('../Backgrounds/Cuphead and Mugman.jpg') no-repeat center top;
     background-attachment:fixed;
     background-size: cover;
     Background-color:rgb(252,213,28);

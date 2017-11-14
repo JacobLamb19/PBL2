@@ -51,7 +51,7 @@
 }
 
 body {
-    background:url('/Images/Background Image NPCs.jpg') no-repeat center top;
+    background:url('../Backgrounds/NPCs.jpg') no-repeat center top;
     background-attachment:fixed;
     background-size: cover;
     Background-color:rgb(252,213,28);
